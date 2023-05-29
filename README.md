@@ -2,10 +2,12 @@
 - 👀 I’m interested in ...
       - Python
       - DevOps
+      - Flask
 - 🌱 I’m currently learning ...
       - DevOps
       - AI
-      - Data Science 
+      - Data Science
+      - Web development 
 - 💞️ I’m looking to collaborate on ...
       - DevOps
       - Software Development 
