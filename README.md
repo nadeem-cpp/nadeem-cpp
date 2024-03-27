@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nadeem-cpp
 - 👀 I’m interested in ...
+      - Mobile Computing
       - Python
       - Cloud
-      - Mobile Computing
 - 🌱 I’m currently learning ...
       - Mobile Computing
       - Python
@@ -10,7 +10,6 @@
 - 💞️ I’m looking to collaborate on ...
       - Software Development 
 - 📫 How to reach me ...
-      - linkedin.com/in/muhammadnadeem10/
       - muhammadnad1001100@gmail.com
 
 <!---
