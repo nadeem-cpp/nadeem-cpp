@@ -1,14 +1,6 @@
 - 👋 Hi, I’m @nadeem-cpp
-- 👀 I’m interested in ...
-      - Mobile Computing
-      - Python
-      - Cloud
-- 🌱 I’m currently learning ...
-      - Mobile Computing
-      - Python
-      - Cloud 
-- 💞️ I’m looking to collaborate on ...
-      - Software Development 
+- I am a freekancer
+- experet in python, mobile development and aws
 - 📫 How to reach me ...
       - muhammadnad1001100@gmail.com
 
