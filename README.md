@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadeem-cpp
 - I am a freekancer
-- experet in python, mobile development and aws
+- expert in python, and aws
 - 📫 How to reach me ...
       - muhammadnad1001100@gmail.com
 
