@@ -2,5 +2,6 @@
 ## Expert in:
 - Web Scraping
 - Chrome Extensions
-- Backend development using Python (FastAPI, MongoDB, Postgresql)
+- Frontend development (React, Tailwind css, materials ui)
+- Backend development using Python (FastAPI, Flast, Django, MongoDB, Postgresql)
 - Prompt Engineering
